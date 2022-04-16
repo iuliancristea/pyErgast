@@ -2,7 +2,7 @@
 
 ![](https://github.com/weiranyu/pyergast/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/weiranyu/pyergast/branch/main/graph/badge.svg)](https://codecov.io/gh/weiranyu/pyergast) [![Documentation Status](https://readthedocs.org/projects/pyergast/badge/?version=latest)](https://pyergast.readthedocs.io/en/latest/?badge=latest)
 
-Python pandas wrapper for the [Ergast F1 API](http://ergast.com/mrd/). This package allows easy access to the Ergast API for anyone wishing to conduct analysis on Formula 1 data.
+Python pandas wrapper for the [Ergast F1 API](https://ergast.com/mrd/). This package allows easy access to the Ergast API for anyone wishing to conduct analysis on Formula 1 data.
 
 ## Installation
 
